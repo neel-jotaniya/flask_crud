@@ -25,5 +25,4 @@
   python ./CRUD/main.py
 ```
 
-- Then we can access APIs at http://127.0.0.1:8000 
     
